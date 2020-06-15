@@ -1,3 +1,3 @@
 # VMDBlenderEXE
   
-  v0.9
+  v0.9.1
